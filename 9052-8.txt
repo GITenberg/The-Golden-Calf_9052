@@ -13,7 +13,7 @@ Author: M. E. Braddon
 Posting Date: June 24, 2013 [EBook #9052]
 Release Date: October, 2005
 First Posted: September 1, 2003
-Last updated: August 8, 2012
+Last updated: December 21, 2017
 
 Language: English
 
@@ -230,7 +230,7 @@ house.
 'Miss Pillby, will you be kind enough to show Ida Palliser the state of
 her desk?' asked Miss Pew, with awe-inspiring politeness.
 
-'She needn't do anything of the kind, 'said Ida coolly. 'I know the state
+'She needn't do anything of the kind,' said Ida coolly. 'I know the state
 of my desk quite as well as she does. I daresay it's untidy. I haven't
 had time to put things straight.'
 
@@ -424,17 +424,19 @@ her,--'the doctor said so when I was quite a little thing.'
 disdain, the present Pillby being long and gaunt.
 
 And the group of listeners laughed, with that frank laughter of school
-girls keenly alive to the ridiculous in other people. There was as much
-difference in the standing of the various bedrooms at Mauleverer Manor as
-in that of the London squares, but in this case it was the inhabitants
-who gave character to the locality. The five-bedded room off the front
-landing was occupied by the stiffest and best behaved of the first
-division, and might be ranked with Grosvenor Square or Lancaster Gate.
-There were rooms on the second floor where girls of the second and third
-division herded in inelegant obscurity, the Bloomsbury and Camden Town
-of the mansion. On this story, too, slept the rabble of girls under
-twelve--creatures utterly despicable in the minds of girls in their
-teens, and the rooms they inhabited ranked as low as St. Giles's.
+girls keenly alive to the ridiculous in other people.
+
+There was as much difference in the standing of the various bedrooms at
+Mauleverer Manor as in that of the London squares, but in this case it
+was the inhabitants who gave character to the locality. The five-bedded
+room off the front landing was occupied by the stiffest and best behaved
+of the first division, and might be ranked with Grosvenor Square or
+Lancaster Gate. There were rooms on the second floor where girls of the
+second and third division herded in inelegant obscurity, the Bloomsbury
+and Camden Town of the mansion. On this story, too, slept the rabble of
+girls under twelve--creatures utterly despicable in the minds of girls
+in their teens, and the rooms they inhabited ranked as low as St.
+Giles's.
 
 Ida Palliser was fortunate enough to have a bed in the butterfly-room, so
 called on account of a gaudy wall paper, whereon Camberwell Beauties
@@ -565,7 +567,8 @@ degenerate into that loathsome animal a sponge,' said Ida, rising
 suddenly from her dejected attitude, and standing up before her admiring
 little friend,
 
-'A daughter of the gods, divinely tall And most divinely fair.'
+    '_A daughter of the gods, divinely tall
+     And most divinely fair_.'
 
 That fatal dower of beauty had been given to Ida Palliser in fullest
 measure. She had the form of a goddess, a head proudly set upon shoulders
@@ -1225,7 +1228,7 @@ Palliser!'
 Another bulky volume was handed to Ida. For variety the binding was
 green, and the inside of the book was by William Cowper.
 
-'The greatest number of marks for English history and literature nave
+'The greatest number of marks for English history and literature have
 been obtained by Miss Palliser.'
 
 Miss Palliser was now the happy possessor of a third volume bound in
@@ -1865,7 +1868,7 @@ temper, and let me do it.'
 'I hope you washed your hands first,' said Horatio. 'I'd sooner cook had
 made the cheesecakes.'
 
-'Of course I washed my hands, you too suggestive pig. But I should-hope
+'Of course I washed my hands, you too suggestive pig. But I should hope
 that in a general way my hands are cleaner than cook's. It is only
 schoolboys who luxuriate in dirt.'
 
@@ -2213,7 +2216,7 @@ behind the tree.
 Bessie, in the midst of a polite conversation about nothing particular.
 
 And anon she murmured in horrified wonder, after a stolen peep behind the
-tree,' Reg is taking off Dr. Rylance.'
+tree, 'Reg is taking off Dr. Rylance.'
 
 The grown-up luncheon party was not lively. Tongue and chicken,
 pigeon-pie, cheese-cakes, tarts, cake, fruit--all had been neatly spread
@@ -3021,7 +3024,7 @@ eye that could sweep over horizons other than are revealed to the average
 gaze, and he told himself that so lovely a woman as Ida Palliser must
 inevitably become the fashion in that particular society which Dr.
 Rylance most affected: and a wife famed for her beauty and elegance
-Would assuredly be of more advantage to a fashionable physician than a
+would assuredly be of more advantage to a fashionable physician than a
 common-place wife with a fortune. Dr. Rylance liked money; but he liked
 it only for what it could buy. He had no sons, and he was much too fond
 of himself to lead laborious days in order to leave a large fortune to
@@ -3294,7 +3297,7 @@ from Norway, I should talk of nothing else.'
 The dumb-charades and hide-and-seek were played, but only by the lower
 orders, as Bessie called her younger brothers and sisters.
 
-Ida strolled in the moonlit garden with Mr. Wendover, Bessie Urania, and
+Ida strolled in the moonlit garden with Mr. Wendover, Bessie, Urania, and
 Mr. Ratcliffe, a very juvenile curate, who was Bessie's admirer and
 slave. Urania had no particular admirer. She felt that every one at
 Kingthorpe must needs behold her with mute worship; but there was no one
@@ -3514,7 +3517,7 @@ a little love to flavour it,' answered Ida softly.
 
 The jaunting-car came to the door as the clock struck seven. Ida's
 luggage was securely bestowed, then, after a perfect convulsion of
-kissing, she was banded to her place, Reginald jumped into his seat and
+kissing, she was handed to her place, Reginald jumped into his seat and
 took the reins, and Brian seated himself beside Ida.
 
 'You are not going with them?' exclaimed Bessie.
@@ -3555,7 +3558,7 @@ better than Norway?' appealing to Brian.
 like to see Norway?'
 
 'I would like to see all that is lovely on earth; yet I think I could be
-content to spend, a life-time here. This must seem strange to you, who
+content to spend a life-time here. This must seem strange to you, who
 grow weary of that beautiful Abbey.'
 
 'It is not of his house, but of himself, that a man grows weary,'
@@ -3787,7 +3790,7 @@ should hardly have lived till now. I see before me a perspective of
 lonely, loveless old age--finishing in a governess' almshouse. I hope
 there are almshouses for governesses.
 
-'Nobody will pity your loneliness or lovelessness,' retorted Brian,' for
+'Nobody will pity your loneliness or lovelessness,' retorted Brian, 'for
 they will both be your own fault.'
 
 She blushed, looking dreamily across the dark-gray river to the level
@@ -3917,7 +3920,7 @@ just now by the river, but as the living embodiment of fortune, pride,
 delight.
 
 Perhaps the vision really dominant in her mind was the thought of
-Herself as mistress of the Abbey, herself as living for ever among the
+herself as mistress of the Abbey, herself as living for ever among the
 people she loved, amidst those breezy Hampshire hills, in the odour of
 pine-woods--rich, important, honoured, and beloved, doing good to all who
 came within the limit of her life. Yes, that was a glorious vision, and
@@ -4976,7 +4979,7 @@ excitement had given to her movements.
 
 She knew in her heart of hearts that she did not love him--that love--the
 passion which she had read of in prose and poetry was still a stranger to
-her soul: but just at this Moment, galled and stung by Miss Pew's
+her soul: but just at this moment, galled and stung by Miss Pew's
 unkindness, heart-sick at her own absolute desolation, the sound of his
 voice was sweet in her ears, the look of the tall slim figure, the
 friendly face turned towards her, was pleasant to her eyes. No, he was
@@ -5328,7 +5331,7 @@ remember; only intent on getting over to-day's trouble and preparing in
 some wise to meet the debts of to-morrow.
 
 'Oh, thank God, to have got away from that treadmill,' said Ida, looking
-up at the bright blue sky;' can I ever be sufficiently grateful to
+up at the bright blue sky; 'can I ever be sufficiently grateful to
 Providence, and to the man whose love has rescued me?'
 
 Her deliverer came strolling across the fields in quest of her presently,
@@ -5618,7 +5621,7 @@ at right angles into a bye road leading to the station.
 
 At that uncongenial place they had to wait a quarter of an hour, walking
 up and down the windy platform, where the porter abandoned himself to the
-contemplation of occasional rooks, and was sometimes surprised by the
+contemplation of occasional looks, and was sometimes surprised by the
 arrival of a train for which he had waited so long as to have become
 sceptical as to the existence of such things as trains in the scheme of
 the universe. The station was a terminus, and the line was a loop, for
